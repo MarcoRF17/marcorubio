@@ -9,5 +9,6 @@ Here is a list of animals:
 3. Snake
 4. Elephant
 5. Lion
+6. Bird
 
 Here is a link to a wiki page about a [Lion](https://en.wikipedia.org/wiki/Lion)
